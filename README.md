@@ -7,7 +7,7 @@ simple password strength check application with Python
 
 a score is given then a strength level is assigned
 
-** *For example a score greater than 10 will yeild a strong password.* **
+** *For example a score greater than 8 will yeild a strong password.* **
 
 the password will gain points based on the parameeters it contains a specefic length or if it contains upper and lower case characters as well as numerical and special characters.
 
